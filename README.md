@@ -10,14 +10,14 @@ Thanks to Prof. Igor V. Pivkin for the great course.
 
 ...
 
-![LennardJones0](/LennardJones01.png)
+![LennardJones0](/LennardJones0.png)
 
 ...
 
-![LennardJones1](/LennardJones01.png)
+![LennardJones1](/LennardJones1.png)
 
 ...
 
-![LennardJones2](/LennardJones01.png)
+![LennardJones2](/LennardJones2.png)
 
 ...
