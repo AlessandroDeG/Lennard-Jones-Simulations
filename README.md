@@ -1,8 +1,9 @@
 # Lennard-Jones-Simulations
 
 
-Molecular Dynamics simulations of Lennard Jones Fluid, implemented for the Particle Methods course at USI.
+Molecular Dynamics simulations of Lennard Jones Fluid using velocity-Verlet scheme to integrate equations of motion in time, implemented for the Particle Methods course at USI.
 https://en.wikipedia.org/wiki/Lennard-Jones_potential
+https://en.wikipedia.org/wiki/Verlet_integration
 
 Thanks to Prof. Igor V. Pivkin for the great course.
 
